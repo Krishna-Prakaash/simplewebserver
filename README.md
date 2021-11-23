@@ -29,7 +29,7 @@ content = """
 <h2>Java is the most widely recognized programming language and its especially sought after. It is a broadly useful programming language and can be utilized in any stages. It is the most well known programming language. It is utilized for Big information and for web and programming advancement.</h2>
 <h3>pros<br>
 •	Flexibility<br>
-•	Object oriented<br>
+•	Object oriented2<br>
 •	Simple syntax<br>
 •	Less security risks<br>
 •	Independent (write once run everywhere)<br>
