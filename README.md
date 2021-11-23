@@ -96,4 +96,19 @@ httpd.serve_forever()
 ```
 ## OUTPUT:
 
+## Client Side Server
+
+![Output 1](CSS1.png)
+
+![Output 2](CSS2.png)
+
+![Output 3](CSS3.png)
+
+![Output 4](CSS4.png)
+
+![Output 5](CSS5.png)
+
+![Output 6](CSS6.png)
+
 ## RESULT:
+Thus , a webserver is designed to display information about the top 5 programming languages
